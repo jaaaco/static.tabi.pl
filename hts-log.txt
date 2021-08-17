@@ -1,0 +1,19 @@
+HTTrack3.49-2 launched on Mon, 16 Aug 2021 21:21:55 at tabi.pl
+(httrack tabi.pl )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:48:51	Error: 	"Not Found" (404) at link tabi.pl/site_media/images/site/section_rule.png (from tabi.pl/site_media/css/screen.css)
+21:48:53	Warning: 	Link tabi.pl/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:24:57	Error: 	"Not Found" (404) at link tabi.pl/galerie/galerie/inwestycja-pilsudskiego-13/inwestycja-pilsudskiego-13/oferty-najmu-lokali-handlowo-uslugowych/0,-v,0,45 (from tabi.pl/galerie/galerie/inwestycja-pilsudskiego-13/inwestycja-pilsudskiego-13/0,-2,3,55)
+22:25:05	Error: 	"Not Found" (404) at link tabi.pl/galerie/galerie/inwestycja-sienkiewicza-10/inwestycja-sienkiewicza-10/oferty-najmu-lokali-handlowo-uslugowych/0,-v,0,45 (from tabi.pl/galerie/galerie/inwestycja-sienkiewicza-10/inwestycja-sienkiewicza-10/0,-6,3,56)
+22:25:13	Error: 	"Not Found" (404) at link tabi.pl/galerie/galerie/inwestycja-rynek-14/inwestycja-rynek-14/oferty-najmu-lokali-handlowo-uslugowych/0,-v,0,45 (from tabi.pl/galerie/galerie/inwestycja-rynek-14/inwestycja-rynek-14/0,-7,3,58)
+22:25:21	Error: 	"Not Found" (404) at link tabi.pl/inwestycja-pilsudskiego-13/oferty-najmu-lokali-handlowo-uslugowych/0,-v,0,45 (from tabi.pl/inwestycja-pilsudskiego-13/0,-2,3,41)
+22:25:29	Error: 	"Not Found" (404) at link tabi.pl/inwestycja-sienkiewicza-10/oferty-najmu-lokali-handlowo-uslugowych/0,-v,0,45 (from tabi.pl/inwestycja-sienkiewicza-10/0,-6,3,41)
+22:25:37	Error: 	"Not Found" (404) at link tabi.pl/inwestycja-rynek-14/oferty-najmu-lokali-handlowo-uslugowych/0,-v,0,45 (from tabi.pl/inwestycja-rynek-14/0,-7,3,41)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 19 minutes 47 seconds : 510 links scanned, 502 files written (104775544 bytes overall) [101193767 bytes received at 21139 bytes/sec], 5634334 bytes transferred using HTTP compression in 283 files, ratio 28%, 6.2 requests per connection
+(7 errors, 1 warnings, 0 messages)
